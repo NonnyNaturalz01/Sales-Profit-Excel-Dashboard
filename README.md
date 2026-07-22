@@ -31,3 +31,7 @@ It provides a comprehensive view of business performance through clear visualiza
 - **[Top 5 Customers Profits](ca://s?q=Top_5_Customers_Profits_in_Excel)**  
   Highlights the most valuable customers driving profitability.
 
+  📂 Repository Contents
+- `Sales and Profit Dashboard.xlsx` → The main Excel dashboard file.
+- Supporting files and documentation.
+

@@ -1,6 +1,6 @@
 # Sales and Profit Excel Dashboard
 <br>
-This project shows an interactive **Sales and Profit Dashboard** built in Microsoft Excel.  
+This project shows an interactive <b>Sales and Profit Dashboard</b> built in Microsoft Excel.  
 It provides a comprehensive view of business performance through clear visualizations and key metrics.
 <br>
 <br>
